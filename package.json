@@ -1,0 +1,14 @@
+{
+  "name": "testetecsomobi",
+  "version": "1.0.0",
+  "description": "Teste Empresa Tcsomobi",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "Jorge Luiz Cardoso",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
